@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85cd1e84-e77f-4356-b704-4229edaefe3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vegan-recipes-rating-server.properties" beforeDir="false" afterPath="$PROJECT_DIR$/vegan-recipes-rating-server.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vegan-recipes-rating-server.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="57" lean-forward="true" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+            <state relative-caret-position="480">
+              <caret line="32" column="79" selection-start-line="32" selection-start-column="79" selection-end-line="32" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -39,7 +38,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
+    <option name="x" value="608" />
+    <option name="y" value="1175" />
     <option name="width" value="1440" />
     <option name="height" value="829" />
   </component>
@@ -100,15 +100,16 @@
       <option name="presentableId" value="Default" />
       <updated>1579530473193</updated>
       <workItem from="1579530475973" duration="2049000" />
-      <workItem from="1580590831114" duration="2146000" />
+      <workItem from="1580590831114" duration="2718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4195000" />
+    <option name="totallyTimeSpent" value="4767000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="608" y="1152" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -155,8 +156,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vegan-recipes-rating-server.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="57" lean-forward="true" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+        <state relative-caret-position="480">
+          <caret line="32" column="79" selection-start-line="32" selection-start-column="79" selection-end-line="32" selection-end-column="79" />
         </state>
       </provider>
     </entry>
