@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85cd1e84-e77f-4356-b704-4229edaefe3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vegan-recipes-rating-server.properties" beforeDir="false" afterPath="$PROJECT_DIR$/vegan-recipes-rating-server.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,18 +103,18 @@
       <workItem from="1581333913334" duration="120000" />
       <workItem from="1581360514211" duration="1123000" />
       <workItem from="1581365766695" duration="17000" />
-      <workItem from="1581597762901" duration="39000" />
+      <workItem from="1581597762901" duration="715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7257000" />
+    <option name="totallyTimeSpent" value="7933000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2048" height="1129" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26420736" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26420736" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -132,7 +131,7 @@
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30374753" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30374753" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
